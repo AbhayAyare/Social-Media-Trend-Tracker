@@ -243,27 +243,6 @@ NLP_SETTINGS = {
 }
 ```
 
-## 🛠️ Troubleshooting
-
-### Common Issues
-
-1. **Twitter API Limits**
-   ```bash
-   # Error: Rate limit exceeded
-   # Solution: Wait 15 minutes or upgrade API tier
-   ```
-
-2. **Missing Dependencies**
-   ```bash
-   # Error: Module not found
-   pip install -r requirements.txt --upgrade
-   ```
-
-3. **Configuration Issues**
-   ```bash
-   # Error: Invalid API credentials
-   # Solution: Verify credentials in config/twitter_config.ini
-   ```
 
 
 
