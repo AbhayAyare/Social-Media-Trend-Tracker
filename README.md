@@ -1,5 +1,3 @@
-Here's the README.md content for your project. You can copy this into README.md in your repository.
-
 # 📊 Social Media Trend Tracker
 
 A comprehensive data analytics project that analyzes social media trends, sentiment, and emerging topics using **NLP** and **machine learning**. Track Twitter and Reddit data to gain real-time insights into public opinion and trending topics.
@@ -261,10 +259,4 @@ NLP_SETTINGS = {
    # Solution: Verify credentials in config/twitter_config.ini
    ```
 
-### Debug Mode
-Enable verbose logging:
-```python
-import logging
-logging.basicConfig(level=logging.DEBUG)
-```
 
