@@ -10,7 +10,7 @@ A comprehensive data analytics project that analyzes social media trends, sentim
 🎥 Video Demonstration
 Watch the complete project walkthrough and setup guide:
 
-https://img.shields.io/badge/%F0%9F%8E%AC-Watch_Video_Demo-red
+Recording 2025-11-14 235757.mp4
 Click above to watch the complete project demonstration
 
 ## 🎯 Project Overview
@@ -264,6 +264,7 @@ NLP_SETTINGS = {
    # Error: Invalid API credentials
    # Solution: Verify credentials in config/twitter_config.ini
    ```
+
 
 
 
