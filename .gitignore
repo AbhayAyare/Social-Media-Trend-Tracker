@@ -1,0 +1,25 @@
+# Ignore Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cached files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode settings
+.vscode/
+
+# Environment files
+*.env
+
+# PyCharm
+.idea/
+
+# Byte-compiled / cache
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
