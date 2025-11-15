@@ -8,7 +8,7 @@ A comprehensive data analytics project that analyzes social media trends, sentim
 ![NLP](https://img.shields.io/badge/Analysis-NLP%2BML-orange)
 
 🎥 Video Demonstration
-Watch the complete project walkthrough and setup guide:
+Watch the complete project walkthrough :
 
 [Recording 2025-11-14 235757.mp4](https://github.com/AbhayAyare/Social-Media-Trend-Tracker/blob/main/Recording%202025-11-14%20235757.mp4)
 Click above to watch the complete project demonstration
@@ -264,6 +264,7 @@ NLP_SETTINGS = {
    # Error: Invalid API credentials
    # Solution: Verify credentials in config/twitter_config.ini
    ```
+
 
 
 
