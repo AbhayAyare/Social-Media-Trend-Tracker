@@ -7,6 +7,12 @@ A comprehensive data analytics project that analyzes social media trends, sentim
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
 ![NLP](https://img.shields.io/badge/Analysis-NLP%2BML-orange)
 
+🎥 Video Demonstration
+Watch the complete project walkthrough and setup guide:
+
+https://img.shields.io/badge/%F0%9F%8E%AC-Watch_Video_Demo-red
+Click above to watch the complete project demonstration
+
 ## 🎯 Project Overview
 
 This project tracks and analyzes social media trends from Twitter and Reddit to:
@@ -258,5 +264,6 @@ NLP_SETTINGS = {
    # Error: Invalid API credentials
    # Solution: Verify credentials in config/twitter_config.ini
    ```
+
 
 
